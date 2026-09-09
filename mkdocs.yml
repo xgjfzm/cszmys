@@ -2,3 +2,14 @@ site_name: 香港出生证明样本排版规范与出世纸防伪制作工艺深
 theme:
   name: material
   custom_dir: overrides
+
+nav:
+  - 首页说明: index.md
+  - 物理材质层: 
+      - 特种防伪丝状纤维与微缩底纹: material_layer.md
+  - 框架排版层:
+      - 官方表格框架与字族排版规范: layout_layer.md
+  - 光学防伪层:
+      - 背光透视灰黑色徽记暗印工艺: optical_layer.md
+  - 成品样本层:
+      - 多层要素叠加综合成品图谱: final_sample.md

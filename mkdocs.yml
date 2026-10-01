@@ -1,4 +1,5 @@
 site_name: 香港出生证明样本排版规范与出世纸防伪制作工艺深度拆解指南
+site_url: https://xgjfzm.github.io/cszmys/
 theme:
   name: material
   custom_dir: overrides
